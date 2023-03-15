@@ -1,1 +1,1 @@
-# tutorials.skykingpx.github.io
+# skykingpx.github.io/fctutorial
