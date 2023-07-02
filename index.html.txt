@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+<link href="https://fonts.googleapis.com/css2?family=Figtree:wght@800&display=swap" rel="stylesheet">
+<style>
+body {
+font-family: figtree;
+
+}
+</style>
+    </head>
+<body>
+    <h1> FreeCam Mod Tutorial </h1>
+  </br><a href="https://fabricmc.net/use/installer/"> Fabric Installer - Benötigt </a></br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/free-cam/files/4203516"> Freecam Fabric 1.19.3 - Benötigt </a></br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/4438742"> Fabric API 1.19.3 - Benötigt </a></br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/modmenu/files/4401053"> Mod Menu 1.19.3 - Benötigt </a></br>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/sodium/files/4381988"> Sodium 1.19.3 (FPS Booster) - Optional </a></br>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/logical-zoom/files/4143630"> Logical Zoom 1.19.3 - Optional </a></br>
+<p> Nicht im Video: </p>
+<a href="https://www.curseforge.com/minecraft/mc-mods/journeymap/files/4473108"> JourneyMap 1.19.3 (Weltkarte + Waypoints) - Optional </a></br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/worldedit/files/4162208"> WorldEdit 1.19.3 (Client*) - Optional </a></br></br>
+<a href="https://modrinth.com/mod/iris/version/1.5.2+1.19.3"> Iris 1.19.3 - Optional wenn "Sodium" installiert (Shader)</a></br></br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4538267"> Xaero's Minimap 1.19.3 (Weltkarte + Waypoints) - Optional - Nicht mit Journeymap Kompatibel! </a></br></br>
+<a href="https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4536626"> Xaero's World Map 1.19.3 (Weltkarte + Waypoints) - Empfohlen wenn Xaero's Minimap heruntergeladen wurde! </a></br>
+</br><hr>
+</br><a href="https://clipchamp.com/watch/xBhAobjrKF9"> Video Tutorial </a></br></br>
+<a href=""> CurseForge Modpack (Bald) </a>
+<p>Ich werde die Versionen der Mods und der Clients regelmäßig updaten! (Momentan: 1.19.3)</p>
+<p style="color:red;">Ich habe im Video JourneyMap nicht erwähnt und es erst später hinzugefügt. Man muss die Datei einfach nur herunterladen und in den Mods Ordner Verschieben</p>
+<p style="color:red;">DL = Direkter Link</p>
+<p> * Client bedeutet, dass man in seinen eigenen Welten WorldEdit benutzen kann. Wenn ein Server das Plugin installiert hat braucht man es nicht nochmal herunterzuladen </p></br>
+<a style="font-size: 80%;" href="https://github.com/SkyKingPX/fctutorial/issues/new/choose">Schlage hier neue Mods vor (wähle das "Mod request" Label aus) </a>
+</body>
+</html>
